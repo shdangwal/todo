@@ -1,5 +1,9 @@
 # Todo
 
+## Description
+Todo app on steroids.
+The idea here is to build a bot which is able to communicate with Todo application to managae Todo's.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.5.
 
 ## Development server
